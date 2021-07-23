@@ -1,0 +1,74 @@
+﻿  main.cpp
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(98,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(125,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(152,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(153,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(160,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(206,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(218,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(219,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(230,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(232,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(248,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(249,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(250,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(266,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(269,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(272,10): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(287,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(289,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(312,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(366,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(368,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(376,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(388,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(407,68): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(411,68): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(435,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(458,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(459,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(470,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(481,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(495,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(506,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(398,10): warning C4101: 'Ferror': unreferenced local variable
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(528,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(545,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(560,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(562,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(568,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(570,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(572,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(579,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(581,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(596,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(598,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(604,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(606,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(608,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(615,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\myANN.h(617,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\main.cpp(36,22): warning C4244: 'argument': conversion from 'int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\main.cpp(39,19): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\main.cpp(56,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  Project2.vcxproj -> C:\Users\wesle\year 4 sem 2\advance programming\project_2\source_code\Project2\Debug\Project2.exe
